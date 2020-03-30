@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5725b20b-94ac-4a40-9207-263415ffa6f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user-properties/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user-properties/user-properties.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user-property/user-property.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user-property/user-property.module.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/properties.store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +48,21 @@
       <option name="presentableId" value="Default" />
       <updated>1585396850173</updated>
       <workItem from="1585396851554" duration="5819000" />
-      <workItem from="1585556680328" duration="1997000" />
+      <workItem from="1585556680328" duration="2380000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="127" key="CommitChangelistDialog2" timestamp="1585559510146">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="423" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585559510146" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1585559542507">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585559542507" />
   </component>
 </project>
